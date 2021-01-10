@@ -15,14 +15,19 @@ The data we needed to retrieve:
 - Software: Python 3.7.6, Visual Studio Code 1.52.1
 
 ## Summary
+The analysis of the election showed that:
+- There were 369,711 total votes cast.
+
 The candidates in the election were:
   1. Charles Casper Stockham
   2. Diana DeGette
   3. Raymon Anthony Doane
+  
 The candidate results were:
   - Charles Casper Stockham received 85,213 votes (23.0% of the total vote)
   - Diana DeGette received 272,892 votes (73.8% of the total vote)
   - Raymon Anthony Doane received 11,606 votes (3.1% of the total vote)
+  
 The winner of the election was:
   - Diana DeGette, with 272,892 votes, and 73.8% of the total vote.
   
